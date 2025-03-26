@@ -67,6 +67,6 @@ dependencies:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - 233503@students.au.edu.pk
+Arsal Ajmal - 233503@students.au.edu.pk
 
 Project Link: https://github.com/ArsalAjmal/SQLite-X-Flutter.git
